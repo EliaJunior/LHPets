@@ -1,0 +1,13 @@
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\LHPets.exe
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\appsettings.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\LHPets.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\LHPets.deps.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\LHPets.runtimeconfig.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\LHPets.pdb
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\LHPets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

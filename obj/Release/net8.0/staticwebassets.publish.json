@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Rk9ULXetE1CGe9PAD8KRXJCgWO4ejB5OJGQQImil2ZA=",
+  "Source": "LHPets",
+  "BasePath": "_content/LHPets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LHPets\\wwwroot",
+      "Source": "LHPets",
+      "ContentRoot": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\\LHPets\\wwwroot\\",
+      "BasePath": "_content/LHPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\\LHPets\\wwwroot\\index.html",
+      "SourceId": "LHPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets]\\LHPets\\wwwroot\\",
+      "BasePath": "_content/LHPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
